@@ -1,0 +1,7 @@
+[2023-03-30T13:38:52-0700] DFHack 50.07-beta1-0-g460ce889 on Windows; cwd md5: 4b8334b882; save: region2; SC_MAP_LOADED; game type DWARF_MAIN (0)
+[2023-03-30T14:24:16-0700] DFHack 50.07-beta1-0-g460ce889 on Windows; cwd md5: 4b8334b882; save: region2; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
+[2023-03-30T14:24:16-0700] DFHack 50.07-beta1-0-g460ce889 on Windows; cwd md5: 4b8334b882; save: region2; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
+[2023-03-30T14:24:26-0700] DFHack 50.07-beta1-0-g460ce889 on Windows; cwd md5: 4b8334b882; save: region2; SC_WORLD_LOADED; game type NONE (11)
+[2023-03-30T14:24:26-0700] DFHack 50.07-beta1-0-g460ce889 on Windows; cwd md5: 4b8334b882; save: region2; SC_MAP_LOADED; game type NONE (11)
+[2023-03-30T14:24:26-0700] DFHack 50.07-beta1-0-g460ce889 on Windows; cwd md5: 4b8334b882; save: region2; SC_MAP_UNLOADED; game type NONE (11)
+[2023-03-30T14:24:26-0700] DFHack 50.07-beta1-0-g460ce889 on Windows; cwd md5: 4b8334b882; save: region2; SC_WORLD_UNLOADED; game type NONE (11)
